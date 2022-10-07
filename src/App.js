@@ -15,7 +15,7 @@ const App = () => {
 
   return (
     <div className="App"> 
-    <Titulo color = 'red' message = 'Estamos en un curso de React'/>
+    <Titulo color = 'yellow' message = 'Estamos en un curso de React'/>
     <Descripcion/>
       <div>
         <p>el resultado es: </p>
